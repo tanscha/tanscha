@@ -9,7 +9,7 @@
 
 - 💪🏼 Future Goals: Learn more technologies.
 - ⚡ Fun fact: I love crocheting.
-- 💜 Interests: music, film, feminism, stocks, environmental issues
+- 💜 Interests: Music, film, feminism, stocks, environmental issues.
 ---
 ### Contact with me 📝
 
