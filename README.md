@@ -1,5 +1,5 @@
 # Hey, I'm Tanja! :wave::smiley:
-## I'm a Computer engineering Student  
+## I'm a computer science student  
 
 ### 👨‍💻📚 I'm currently learning about:
 - Operating systems
@@ -7,8 +7,9 @@
 - Data science
 <br/>
 
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+- 💪🏼 Future Goals: Learn more technologies.
 - ⚡ Fun fact: I love crocheting.
+- 💜 Interests: music, film, feminism, stocks, environmental issues
 ---
 ### Contact with me 📝
 
