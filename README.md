@@ -5,6 +5,7 @@
 - Operating systems
 - Networking and cloud computing
 - Data science
+- Mandarin
 <br/>
 
 - 💪🏼 Future Goals: Learn more technologies.
