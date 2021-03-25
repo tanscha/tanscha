@@ -5,7 +5,7 @@
 - Operating systems
 - Networking and cloud computing
 - Data science
-
+<br />
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love crocheting.
 ---
