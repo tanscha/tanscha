@@ -14,7 +14,7 @@
 ---
 ### Contact me 📝
 
-[<img align="left" alt="bilgehangecici | Facebook" height="30px" src="https://www.flaticon.com/svg/vstatic/svg/725/725289.svg"/>][facebook]
+[<img align="left" alt="bilgehangecici | Facebook" height="30px" src="https://www.flaticon.com/svg/vstatic/icons/svg/725/725289.svg"/>][facebook]
 [<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
 [<img align="left" alt="bilgehangecici | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />][instagram]
 [<img align="left" alt="bilgehangecici | Spotify" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725281.svg" />][Spotify]
